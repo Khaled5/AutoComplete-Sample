@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AutoComplete</string>
+    <string name="enter_a_source_text_to_test">Enter a BIG source text to test.</string>
+    <string name="next">Next</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_big_text_warning">You should enter a text to test.</string>
+</resources>
